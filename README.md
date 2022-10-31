@@ -24,7 +24,7 @@ A simple note taking application using express for data storage.
 ## Installation Instructions 
 <a name="instr"></a> 
  
->N/A 
+>Navigate to the site link provided: https://dashboard.heroku.com/apps/note-taker-dcc/deploy/github
  
 ## Usage information 
 <a name="usage"></a>  
